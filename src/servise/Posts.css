@@ -1,0 +1,76 @@
+.AppInner {
+   padding-left: 212px;
+}
+
+.authorFoto {
+   height: 98px;
+   width: 98px;
+   border-radius: 50%;
+   border: 2px solid;
+   margin-left: -743px;
+   margin-top: 26px;
+}
+
+.divAuthor {
+   background: radial-gradient(circle, black, rgb(57, 41, 22));
+   width: 854px;
+   margin-left: 177px;
+   margin-top: 20px;
+   border: 1px solid rgb(71, 49, 49);
+   border-radius: 5%
+}
+
+.authorName {
+   color: #d8a413b7;
+   font-size: 34px;
+   font-family: cursive;
+   position: absolute;
+   padding-top: 69px;
+   margin-left: 18px;
+}
+
+.nickName {
+   position: absolute;
+   margin-left: 181px;
+   margin-top: 78px;
+   color: #055f6482;
+}
+
+.spanDate {
+   position: absolute;
+   margin-left: 275px;
+   margin-top: 81px;
+   color: #0c5a5f82;
+   font-size: 22px;
+   font-family: cursive;
+}
+
+.content {
+   margin-left: -324px;
+   margin-top: 6px;
+   color: #02131482;
+   font-family: revert;
+   color: rgba(227, 220, 13, 0.829);
+}
+
+.postFoto {
+   margin-top: 0px;
+   height: 298px;
+   width: 602px;
+   border-radius: 5%;
+}
+
+.elPanel {
+   background: rgb(0, 0, 2);
+   border: 0;
+   margin-right: 84px;
+}
+
+.panel {
+   margin-left: 90px;
+}
+
+span {
+   padding-right: 8px;
+   color: white
+}

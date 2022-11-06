@@ -1,0 +1,92 @@
+.contact {
+   border: 2px solid #060606;
+   text-align: center;
+   font-size: 28px;
+   background: linear-gradient(black, rgb(189, 134, 14));
+   color: #000000e1;
+   width: 955px;
+   margin-top: 15px;
+   border-radius: 5px;
+   margin-left: 290px;
+   font-family: cursive;
+   height: 161px
+}
+
+.contact:hover {
+   background-color: #bd9d0f;
+   box-shadow: 8px 8px 2px 1px rgb(55, 55, 24);
+}
+
+.search {
+
+   text-align: center;
+   margin-left: 20px;
+   border: 2px solid #696724;
+   width: 947px;
+   height: 50px;
+   background: #42393969;
+   color: aliceblue;
+}
+
+.search:hover {
+   background-color: #000000e1;
+}
+
+.button-user {
+   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWu_uGnYGqhdccaFTdaen4Ob1QTYuLQd9iEQ&usqp=CAU);
+
+   width: 150px;
+   background-size: 100%;
+
+}
+
+.button-user:hover {
+   background-color: rgb(0, 0, 0);
+}
+
+.button-user a {
+   color: rgba(7, 7, 6, 0.998)
+}
+
+.OneContact-foto {
+   width: 446px;
+   height: 357px;
+   margin-left: -369px;
+   border: 5px solid white;
+   border-radius: 8%;
+
+}
+
+.OneContact-firstMame {
+   margin-top: 0px;
+   position: fixed;
+   font-size: 45px;
+}
+
+.OneContact-lastName {
+   margin-top: 50px;
+   position: fixed;
+   font-size: 45px;
+}
+
+.OneContact-phone {
+   margin-top: 100px;
+   position: fixed;
+   font-size: 40px;
+   margin-left: 39px;
+}
+
+.OneContact-gender {
+   margin-top: -230px;
+   position: fixed;
+   font-size: 45px;
+   margin-left: 858px;
+   color: white;
+}
+
+.OneContact-button {
+   margin-top: 310px;
+   position: fixed;
+   font-size: 27px;
+   margin-left: 50px;
+}

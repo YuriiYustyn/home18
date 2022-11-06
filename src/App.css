@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  background: linear-gradient(black, rgb(205, 139, 9));
+}
+
+.header {
+  padding-top: 50px;
+  text-align: center;
+  background: linear-gradient(black, rgb(189, 134, 14));
+  padding-bottom: 44px;
+  border: 4mm ridge rgba(211, 220, 50, .6);
+}
+
+.home p {
+  font-size: 35px;
+  font-family: cursive;
+  font-weight: 900;
+  height: 1000px;
+}
+
+span {
+  margin-left: 50px;
+}
+
+.foto {
+  position: absolute;
+  width: 250px;
+  height: px;
+  margin-left: -306px;
+  margin-top: -21px;
+}
+
+.nav li {
+  display: inline-block;
+  padding: 20px;
+}
+
+.fotos {
+  margin-left: 20px;
+  width: 350px;
+  height: 300px;
+  border: 2px solid rgb(77, 50, 11);
+}
+
+.nav li a {
+  color: yellow
+}
+
+.nav button {
+  background-color: black;
+  border: 2px solid rgb(61, 33, 23);
+  width: 150px;
+}
+
+.nav button:hover {
+  background-color: rgb(61, 33, 23);
+}
+
+.OneContact-foto {
+  width: 446px;
+  height: 357px
+}
+
+.OneContact-button {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWu_uGnYGqhdccaFTdaen4Ob1QTYuLQd9iEQ&usqp=CAU);
+  width: 150px;
+  background-size: 100%;
+
+}
+
+.nav li a {
+  color: yellow;
+  font-size: 23px;
+}
