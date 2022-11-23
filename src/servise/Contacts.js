@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Contact } from "./Contact.js"
+import { Contact } from "../copmonents/Contact.js"
 import "./contacts.css"
 export const contacts = [{
    firstName: "Барней",

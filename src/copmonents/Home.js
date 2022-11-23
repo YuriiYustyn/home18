@@ -1,10 +1,10 @@
 import { Component } from 'react'
-import Header from "./Header"
+
 export default class Home extends Component {
    render() {
       return (
          <div className='home'>
-            <Header />
+            
             <p>
                Головна сторінка сайту — це як обкладинка для книги: привертає<br></br>
                увагу та викликає бажання гортати далі. Від того, як вона оформлена, <br></br>

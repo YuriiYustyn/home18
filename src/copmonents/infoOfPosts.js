@@ -1,5 +1,5 @@
-import './Posts.css';
-import { Post } from './Posts.js'
+import '../servise/Posts.css';
+import { Post } from '../servise/Posts.js'
 
 
 export let obj = [{
